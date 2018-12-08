@@ -1,7 +1,3 @@
-Paril Doshi - PSD170000
-Vivek Shah - VXS173830
-Debanjana Dasgupta – DXD170016
-
 The code is collectively build on google colab and the projectmnist.py file is generated from it.
 
 The code can run on any editor(spyder), as the code has no dependency.
